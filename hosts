@@ -19,19 +19,19 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
-127.0.0.1 gfswl.geforce.com
-127.0.0.1 gfe.nvidia.com
-127.0.0.1 events-dc1.gfe.nvidia.com
-127.0.0.1 activation-dc1.gfe.nvidia.com
-127.0.0.1 telemetry-dc1.gfe.nvidia.com
-127.0.0.1 telemetry.gfe
-127.0.0.1 hqemgate07.nvidia.com
-127.0.0.1 hqemgate08.nvidia.com
-127.0.0.1 hqemgate09.nvidia.com
-127.0.0.1 hqemgate10.nvidia.com
-127.0.0.1 telemetry.nvidia.com
-127.0.0.1 telemetry-dce.gfe.nvidia.com
-127.0.0.1 activation.gfe.nvidia.com
-127.0.0.1 telemetry.gfe.nvidia.com
-127.0.0.1 events.gfe.nvidia.com
-127.0.0.1 nvidiahk.nvidia.com
+0.0.0.0 gfswl.geforce.com
+0.0.0.0 gfe.nvidia.com
+0.0.0.0 events-dc1.gfe.nvidia.com
+0.0.0.0 activation-dc1.gfe.nvidia.com
+0.0.0.0 telemetry-dc1.gfe.nvidia.com
+0.0.0.0 telemetry.gfe
+0.0.0.0 hqemgate07.nvidia.com
+0.0.0.0 hqemgate08.nvidia.com
+0.0.0.0 hqemgate09.nvidia.com
+0.0.0.0 hqemgate10.nvidia.com
+0.0.0.0 telemetry.nvidia.com
+0.0.0.0 telemetry-dce.gfe.nvidia.com
+0.0.0.0 activation.gfe.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 nvidiahk.nvidia.com
